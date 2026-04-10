@@ -18,7 +18,7 @@ st.markdown("""
     
     /* Uploader Integrado */
     [data-testid="stFileUploader"] { background-color: #161B22; border: 1px dashed #3FB950; border-radius: 4px; padding: 10px; }
-    [data-testid="stFileUploader"] section { background-color: #0B0E14 !important; }
+    [data-testid="stFileUploader"] section { background-color: #3FB950 !important; }
 
     /* KPIs de Auditoria */
     [data-testid="stMetric"] { background-color: #161B22; border: 1px solid #30363D; border-radius: 4px; padding: 15px !important; }
