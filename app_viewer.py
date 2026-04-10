@@ -17,7 +17,7 @@ st.markdown("""
     .stApp { background-color: #0B0E14; color: #FFFFFF; font-family: 'Inter', sans-serif; }
     
     /* Uploader Integrado */
-    [data-testid="stFileUploader"] { background-color: #161B22; border: 1px dashed #3FB950; border-radius: 4px; padding: 10px; }
+    [data-testid="stFileUploader"] { background-color: #000080; border: 1px dashed #3FB950; border-radius: 4px; padding: 10px; }
     [data-testid="stFileUploader"] section { background-color: #0B0E14 !important; }
 
     /* KPIs de Auditoria */
