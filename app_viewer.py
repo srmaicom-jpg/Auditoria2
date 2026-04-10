@@ -63,7 +63,7 @@ st.markdown("""
         font-size: 13px !important;
         text-align: center;
     }
-    .stLinkButton a:hover { background-color: #2EA043 !important; }
+    .stLinkButton a:hover { background-color: #3FB950 !important; }
 
     /* Badges de Veredito */
     .v-red { color: #F85149; font-weight: 800; }
