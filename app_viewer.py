@@ -80,7 +80,7 @@ try:
 except:
     here_api_key = "TK2TmYxxD8AC0wB5DdG6V07idsfb_iIrtYU5T7CAJMo"
 
-st.markdown("<h1 style='color:white; margin-top:-50px;'>Auditoria EAF | V900 Industrial</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='color:white; margin-top:-50px;'>Auditoria </h1>", unsafe_allow_html=True)
 
 up = st.file_uploader("📂 Upload do arquivo de auditoria (.json)", type="json")
 
